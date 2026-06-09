@@ -22,7 +22,7 @@ export default function HeroV2({ product, heroImage }: HeroV2Props) {
       {bgImage && (
         <Image
           src={bgImage}
-          alt={product?.name ?? 'AR-Rahmani signature'}
+          alt={product?.name ?? 'Al-Haala signature'}
           fill
           priority
           sizes="100vw"
@@ -47,7 +47,7 @@ export default function HeroV2({ product, heroImage }: HeroV2Props) {
             className="font-display tracking-[0.08em] uppercase text-white leading-[0.95] whitespace-nowrap"
             style={{ fontSize: 'clamp(40px, 6.5vw, 96px)' }}
           >
-            AR-RAHMANI
+            AL-HAALA
           </h1>
           {product?.name && (
             <p

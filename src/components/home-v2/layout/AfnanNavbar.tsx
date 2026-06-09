@@ -63,7 +63,7 @@ export default function AfnanNavbar() {
             href="/home-v2"
             className="font-display text-lg sm:text-2xl md:text-3xl tracking-[0.18em] sm:tracking-[0.28em] uppercase text-ink whitespace-nowrap"
           >
-            AR-Rahmani
+            Al-Haala
           </Link>
 
           <div className="flex items-center gap-4">

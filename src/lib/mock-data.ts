@@ -157,8 +157,8 @@ const makeProduct = (args: MakeArgs): Product => {
     giftBoxAvailable: args.giftBoxAvailable ?? true,
     giftBoxPrice: 99,
     isFeaturedOfWeek: args.isFeaturedOfWeek ?? false,
-    seoTitle: `${args.name} — AR-Rahmani Perfumes`,
-    seoDescription: args.tagline ?? `${args.name} from AR-Rahmani.`,
+    seoTitle: `${args.name} — Al-Haala Perfumes`,
+    seoDescription: args.tagline ?? `${args.name} from Al-Haala.`,
     createdAt,
   }
 }
@@ -166,8 +166,8 @@ const makeProduct = (args: MakeArgs): Product => {
 export const mockProducts: Product[] = [
   makeProduct({
     id: '1',
-    slug: 'oud-al-rahmani',
-    name: 'Oud Al Rahmani',
+    slug: 'oud-al-haala',
+    name: 'Oud Al Haala',
     price: 2799,
     badges: ['bestseller', 'fragrance-of-week'],
     isFeaturedOfWeek: true,

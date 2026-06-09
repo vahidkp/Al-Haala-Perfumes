@@ -3,7 +3,7 @@ import { Instagram, Facebook, Youtube, MessageCircle, Linkedin } from 'lucide-re
 
 const columns = [
   {
-    heading: 'AR-Rahmani',
+    heading: 'Al-Haala',
     links: [
       { label: 'About Us', href: '/about' },
       { label: 'Influencer Program', href: '/influencer' },
@@ -79,7 +79,7 @@ export default function AfnanFooter() {
           <div className="col-span-2 lg:col-span-1 space-y-4">
             <Link href="/home-v2" className="block">
               <span className="font-display text-2xl tracking-[0.24em] uppercase text-white whitespace-nowrap">
-                AR-Rahmani
+                Al-Haala
               </span>
               <p className="font-body text-[11px] tracking-widest uppercase text-white/60 mt-1">
                 Perfumes — UAE
@@ -110,10 +110,10 @@ export default function AfnanFooter() {
       <div className="border-t border-white/10">
         <div className="container-ar py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="font-body text-[11px] text-white/55 tracking-wide">
-            © {new Date().getFullYear()} AR-Rahmani Perfumes — UAE. All rights reserved.
+            © {new Date().getFullYear()} Al-Haala Perfumes — UAE. All rights reserved.
           </p>
           <p className="font-body text-[11px] text-white/55 tracking-wide">
-            Powered by AR-Rahmani Atelier
+            Powered by Al-Haala Atelier
           </p>
         </div>
       </div>

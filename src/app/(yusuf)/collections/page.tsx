@@ -5,7 +5,7 @@ import { getAllProducts } from '@/lib/queries'
 export const metadata: Metadata = {
   title: 'Collections',
   description:
-    "Browse AR-Rahmani's full range of Ouds, Attars, Bakhoor, Gift Sets and more.",
+    "Browse Al-Haala's full range of Ouds, Attars, Bakhoor, Gift Sets and more.",
 }
 
 export const revalidate = 3600

@@ -13,7 +13,7 @@ import { getAllProducts, getFeaturedProducts, getBestSellers } from '@/lib/queri
 export const revalidate = 3600
 
 export const metadata = {
-  title: 'AR-Rahmani — Home (V2)',
+  title: 'Al-Haala — Home (V2)',
 }
 
 export default async function HomeV2() {

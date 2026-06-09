@@ -61,10 +61,10 @@ export default async function HomePage() {
       {/* Mountain / signature banner */}
       <EditorialBanner
         eyebrow=""
-        heading="AR-RAHMANI"
+        heading="AL-HAALA"
         body="The Signature Edition — explore the flagship oud, crafted in our smallest batches."
         ctaLabel="Explore"
-        ctaHref="/products/oud-al-rahmani"
+        ctaHref="/products/oud-al-haala"
         imageUrl={heroImages.men}
         imageAlt="Signature edition"
         textAlign="center"

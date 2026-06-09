@@ -69,7 +69,7 @@ export default function Navbar() {
               href="/"
               className="font-display text-lg sm:text-2xl md:text-3xl tracking-[0.18em] sm:tracking-[0.32em] uppercase text-cream whitespace-nowrap"
             >
-              AR-RAHMANI
+              AL-HAALA
             </Link>
 
             <div className="flex items-center gap-5">

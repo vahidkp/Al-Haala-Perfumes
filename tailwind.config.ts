@@ -9,12 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Yusuf Bhai inspired palette
+        // Dark grey brand palette (was forest green)
         forest: {
-          DEFAULT: '#1B3A2E',
-          deep: '#0F2A1F',
-          light: '#284A3C',
-          line: '#2F5142',
+          DEFAULT: '#2E2E2E',
+          deep: '#1A1A1A',
+          light: '#3D3D3D',
+          line: '#474747',
         },
         cream: {
           DEFAULT: '#F1ECE2',

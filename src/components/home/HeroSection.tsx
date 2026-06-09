@@ -12,7 +12,7 @@ export default function HeroSection() {
       <div className="absolute inset-0">
         <Image
           src={heroImages.main}
-          alt="AR-Rahmani signature fragrance"
+          alt="Al-Haala signature fragrance"
           fill
           priority
           sizes="100vw"
@@ -48,7 +48,7 @@ export default function HeroSection() {
           className="font-display font-light text-cream leading-[1.1] tracking-[0.18em]"
           style={{ fontSize: 'clamp(48px, 8vw, 110px)' }}
         >
-          AR-RAHMANI
+          AL-HAALA
         </motion.h1>
 
         <motion.div

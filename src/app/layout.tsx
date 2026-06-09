@@ -19,13 +19,13 @@ const dmSans = DM_Sans({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | AR-Rahmani Perfumes',
-    default: 'AR-Rahmani Perfumes — Authentic Arabian Fragrances',
+    template: '%s | Al-Haala Perfumes',
+    default: 'Al-Haala Perfumes — Authentic Arabian Fragrances',
   },
   description:
     'Premium Ouds, Attars, Bakhoor and Perfume Oils. Handcrafted Arabian fragrances delivered to your door.',
   openGraph: {
-    siteName: 'AR-Rahmani Perfumes',
+    siteName: 'Al-Haala Perfumes',
     type: 'website',
   },
 }

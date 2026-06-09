@@ -17,7 +17,7 @@ const productAccordions = [
   {
     question: 'Disclaimer',
     answer:
-      'All fragrances are inspired interpretations. AR-Rahmani Perfumes is not affiliated with the original brand. Fragrance compositions may vary slightly between batches due to natural ingredients.',
+      'All fragrances are inspired interpretations. Al-Haala Perfumes is not affiliated with the original brand. Fragrance compositions may vary slightly between batches due to natural ingredients.',
   },
   {
     question: 'Shipping & Returns',

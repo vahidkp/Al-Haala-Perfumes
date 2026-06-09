@@ -5,7 +5,7 @@ const faqs = [
   {
     question: 'What is the refund policy?',
     answer:
-      'We accept returns within 7 days of delivery if the product is unused, sealed, and in its original packaging. Contact us at info@arrahmani.com to initiate a return.',
+      'We accept returns within 7 days of delivery if the product is unused, sealed, and in its original packaging. Contact us at info@alhaala.com to initiate a return.',
   },
   {
     question: 'How long does it take until I get my order?',

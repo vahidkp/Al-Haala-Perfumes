@@ -42,7 +42,7 @@ export default async function ProductPage({ params }: PageProps) {
       <NoteExplorer notes={product.notes} />
       <StoryBanner
         heading="A Symphony of Oud and Tradition"
-        body="Every AR-Rahmani fragrance is a journey — through ancient souks, cedar forests, and sun-warmed amber. We source only the finest raw materials to craft scents that are timeless, personal, and unforgettable."
+        body="Every Al-Haala fragrance is a journey — through ancient souks, cedar forests, and sun-warmed amber. We source only the finest raw materials to craft scents that are timeless, personal, and unforgettable."
         imageUrl={heroImages.story}
       />
       <TrustBar />

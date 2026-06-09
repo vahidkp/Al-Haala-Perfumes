@@ -60,7 +60,7 @@ export default function Footer() {
           <div className="lg:max-w-sm">
             <Link href="/" className="block">
               <span className="font-display text-2xl md:text-3xl tracking-[0.24em] text-cream uppercase whitespace-nowrap">
-                AR-RAHMANI
+                AL-HAALA
               </span>
               <p className="font-body text-[11px] tracking-widest uppercase text-cream/60 mt-2">
                 Perfumes — UAE
@@ -110,7 +110,7 @@ export default function Footer() {
       <div className="border-t border-forest-line">
         <div className="container-ar py-5 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="font-body text-[11px] text-cream/55 tracking-wide">
-            © {new Date().getFullYear()} AR-RAHMANI Perfumes — UAE. All
+            © {new Date().getFullYear()} AL-HAALA Perfumes — UAE. All
             rights reserved.
           </p>
           <div className="flex items-center gap-4">
